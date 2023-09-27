@@ -2,3 +2,8 @@
 *.log
 *.out
 Assignment3-git.pdf
+
+*.bbl
+*.fdb_latexmk
+*.fls
+*.synctex.gz
